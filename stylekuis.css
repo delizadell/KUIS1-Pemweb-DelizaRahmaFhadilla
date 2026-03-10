@@ -1,0 +1,14 @@
+body{
+    background-color: lightcyan ;
+}
+
+table{
+    background-color:lavenderblush;
+    
+}
+
+input, select{
+    border-bottom: 1px solid white;
+    border-color: gray;
+    background-color: lavender;
+}
